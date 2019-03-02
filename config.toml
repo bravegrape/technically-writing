@@ -1,0 +1,4 @@
+baseURL = "http://bravegrape.dev/"
+languageCode = "en-uk"
+title = "technically writing"
+theme = "cupper"
