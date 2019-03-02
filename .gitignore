@@ -5,3 +5,7 @@
 # The website build #
 #####################
 public
+
+# The resources folder, whatever that is #
+##########################################
+resources
