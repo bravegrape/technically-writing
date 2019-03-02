@@ -1,4 +1,4 @@
-baseURL = "http://bravegrape.dev/"
+baseURL = "https://technically-writing.netlify.com/"
 languageCode = "en-uk"
 title = "technically writing"
 theme = "cupper"
