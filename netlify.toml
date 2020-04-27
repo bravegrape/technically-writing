@@ -3,5 +3,5 @@
 
 [build.environment]
   HUGO_VERSION = "0.54.0"
-  HUGO_THEME = "cupper"
+  HUGO_THEME = "cupper-hugo-theme"
   HUGO_BASEURL = "https://bravegrape.dev/"

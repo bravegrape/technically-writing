@@ -2,7 +2,7 @@ baseURL = "bravegrape.dev"
 languageCode = "en-uk"
 defaultContentLanguage = "en"
 title = "Technically writing"
-theme = "cupper"
+theme = "cupper-hugo-theme"
 # Added token I got with my Analytics account
 googleAnalytics = "UA-109269946-1"
 
