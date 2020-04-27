@@ -1,4 +1,5 @@
-baseURL = "bravegrape.dev"
+#baseURL = "bravegrape.dev"
+relativeurls = true
 languageCode = "en-uk"
 defaultContentLanguage = "en"
 title = "Technically writing"
