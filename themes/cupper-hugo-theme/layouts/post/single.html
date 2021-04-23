@@ -9,13 +9,8 @@
 
     <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
-      {{ $publishDate := .PublishDate }}
-      <strong aria-hidden="true">Publish date: </strong>{{ $publishDate.Format $dateFormat }}
       {{ with .Lastmod }}
-        {{ if gt . $publishDate }}
-          <br>
           <strong aria-hidden="true">Last updated: </strong>{{ .Format $dateFormat }}
-        {{ end }}
       {{ end }}
     </div>
 
@@ -35,7 +30,7 @@
         </ul>
       </div>
     {{ end }}
-    
+
     {{ if ne .Params.toc false }}
       {{ partial "toc" . }}
     {{ end }}

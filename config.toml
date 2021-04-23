@@ -41,3 +41,6 @@ googleAnalytics = "UA-109269946-1"
     name = "About"
     url = "/about/"
     weight = 4
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
