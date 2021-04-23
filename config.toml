@@ -34,8 +34,8 @@ googleAnalytics = "UA-109269946-1"
     url = "/post/"
     weight = 2
   [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Korean"
+    url = "/korean/"
     weight = 3
   [[menu.nav]]
     name = "About"
